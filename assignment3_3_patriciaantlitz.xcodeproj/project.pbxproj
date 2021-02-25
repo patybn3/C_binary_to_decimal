@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C5B2C8D825D4924600EA6E89 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = C5B2C8D725D4924600EA6E89 /* main.c */; };
+		C5B2C8D825D4924600EA6E89 /* assignment3_3_patriciaantlitz.c in Sources */ = {isa = PBXBuildFile; fileRef = C5B2C8D725D4924600EA6E89 /* assignment3_3_patriciaantlitz.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		C5B2C8D425D4924600EA6E89 /* assignment3_3_patriciaantlitz */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = assignment3_3_patriciaantlitz; sourceTree = BUILT_PRODUCTS_DIR; };
-		C5B2C8D725D4924600EA6E89 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		C5B2C8D725D4924600EA6E89 /* assignment3_3_patriciaantlitz.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = assignment3_3_patriciaantlitz.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +41,7 @@
 		C5B2C8CB25D4924600EA6E89 = {
 			isa = PBXGroup;
 			children = (
-				C5B2C8D625D4924600EA6E89 /* assignment3_3_patriciaantlitz */,
+				C5B2C8D725D4924600EA6E89 /* assignment3_3_patriciaantlitz.c */,
 				C5B2C8D525D4924600EA6E89 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,14 +52,6 @@
 				C5B2C8D425D4924600EA6E89 /* assignment3_3_patriciaantlitz */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		C5B2C8D625D4924600EA6E89 /* assignment3_3_patriciaantlitz */ = {
-			isa = PBXGroup;
-			children = (
-				C5B2C8D725D4924600EA6E89 /* main.c */,
-			);
-			path = assignment3_3_patriciaantlitz;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -118,7 +110,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C5B2C8D825D4924600EA6E89 /* main.c in Sources */,
+				C5B2C8D825D4924600EA6E89 /* assignment3_3_patriciaantlitz.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
